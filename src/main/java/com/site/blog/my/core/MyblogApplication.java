@@ -1,4 +1,4 @@
-package com.site.blog.myblog;
+package com.site.blog.my.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
