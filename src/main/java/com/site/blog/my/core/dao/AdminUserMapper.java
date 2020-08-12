@@ -3,6 +3,7 @@ package com.site.blog.my.core.dao;
 import com.site.blog.my.core.entity.AdminUser;
 import org.apache.ibatis.annotations.Param;
 
+//mapper use as a interface to get data from database
 public interface AdminUserMapper {
     int insert(AdminUser record);
 
